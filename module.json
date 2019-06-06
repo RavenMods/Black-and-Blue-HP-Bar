@@ -1,0 +1,12 @@
+{
+    "name": "Black-and-Blue-HP-Bar",
+    "category": "client",
+    "description": "Custom HP/MP bar, laurel, class window, animations and blue icon accents.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Black and Blue HP Bar",
+        "niceName": "Black and Blue HP Bar"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Black-and-Blue-HP-Bar/master/"],
+    "disableAutoUpdate": false
+}
